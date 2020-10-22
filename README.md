@@ -21,8 +21,9 @@ EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models </
    
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(10).pdf" style="text-decoration:none;">Practical Secure Aggregation
 for Privacy-Preserving Machine Learning </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(11).pdf" style="text-decoration:none;">TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(12).pdf" style="text-decoration:none;">Multi-Oriented Text Detection with Fully Convolutional Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(11).pdf" style="text-decoration:none;">Artificial Intelligence Applications in Cybersecurity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(12).pdf" style="text-decoration:none;">On the Effectiveness of
+Machine and Deep Learning for Cyber Security</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(13).pdf" style="text-decoration:none;">Anagram: A Content Anomaly Detector Resistant to Mimicry Attack</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(14).pdf" style="text-decoration:none;">CAMP: Content-Agnostic Malware Protection</a></li>
