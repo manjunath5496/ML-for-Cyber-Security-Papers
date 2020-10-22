@@ -53,13 +53,14 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(25).pdf" style="text-decoration:none;">Anomalous Payload-based Network Intrusion Detection</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(26).pdf" style="text-decoration:none;"> Polonium: Tera-Scale Graph Mining for Malware Detection</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(27).pdf" style="text-decoration:none;">Polonium: Tera-Scale Graph Mining for Malware Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(27).pdf" style="text-decoration:none;">A Survey On Machine Learning For Cyber Security</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(28).pdf" style="text-decoration:none;">STN-OCR: A single Neural Network for Text Detection and Text Recognition</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(28).pdf" style="text-decoration:none;">Machine Learning for Cyber Security using Big Data Analytics</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(29).pdf" style="text-decoration:none;">Dimension Reduction in Network Attacks Detection Systems</a></li>                              
-
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(30).pdf" style="text-decoration:none;">Machine Learning Algorithms in Cyber Security</a></li>  
 
    
 
