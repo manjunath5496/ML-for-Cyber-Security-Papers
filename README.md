@@ -8,8 +8,9 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(2).pdf" style="text-decoration:none;">Applications of Machine Learning in Cyber Security</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(3).pdf" style="text-decoration:none;">A Study of Cyber Security using Machine Learning Techniques</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(4).pdf" style="text-decoration:none;">Deep Structured Output Learning for Unconstrained Text Recognition</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(5).pdf" style="text-decoration:none;">Reading Scene Text in Deep Convolutional Sequences</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(4).pdf" style="text-decoration:none;">Cyber Attack Detection
+thanks to Machine Learning Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(5).pdf" style="text-decoration:none;">Machine Learning and Cyber Security</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(6).pdf" style="text-decoration:none;">eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(7).pdf" style="text-decoration:none;">Machine Learning DDoS Detection for Consumer Internet of Things Devices</a></li>
 
