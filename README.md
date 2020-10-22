@@ -76,7 +76,7 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(37).pdf" style="text-decoration:none;">The Impact of Artificial Intelligence on Security: a Dual Perspective</a></li>  
 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(38).pdf" style="text-decoration:none;">Machine Learning in the Age of Cyber AI: A Review of Machine Learning Approaches for Cyber Security and Darktrace’s Underlying Technology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(38).pdf" style="text-decoration:none;">Machine Learning in the Age of Cyber AI: A Review of Machine Learning Approaches for Cyber Security and Darktrace's Underlying Technology</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(39).pdf" style="text-decoration:none;">Artificial Intelligence</a></li>                              
  
