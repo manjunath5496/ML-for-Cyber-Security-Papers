@@ -62,7 +62,7 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(30).pdf" style="text-decoration:none;">Machine Learning Algorithms in Cyber Security</a></li>  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(31).pdf" style="text-decoration:none;">DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(31).pdf" style="text-decoration:none;">SoK: Security and Privacy in Machine Learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(32).pdf" style="text-decoration:none;">Toward AI Security: Global Aspirations for a More Resilient Future</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(33).pdf" style="text-decoration:none;"> A Survey of Data Mining and Machine Learning Methods for Cyber Security Intrusion Detection</a></li>
@@ -82,13 +82,47 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(40).pdf" style="text-decoration:none;">Intelligent Security Measures for Smart Cyber-Physical Systems</a></li>  
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(41).pdf" style="text-decoration:none;">Machine Learning in Vulnerability Assessment</a></li>  
+
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(42).pdf" style="text-decoration:none;">Customizing Machine
+Learning to Combat Cyberattacks</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(43).pdf" style="text-decoration:none;">A Review of the Advances in Cyber Security Benchmark Datasets for Evaluating Data-Driven based Intrusion Detection Systems</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(44).pdf" style="text-decoration:none;">Is Machine Learning Cybersecurity's Silver Bullet?</a></li>  
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(45).pdf" style="text-decoration:none;">Cyber Security in the Energy Sector</a></li>  
+
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(46).pdf" style="text-decoration:none;">Cybersecurity
+Research: Challenges and Course of Action</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(47).pdf" style="text-decoration:none;">IOT Security and the Role of AI/ML to Combat Emerging Cyber Threats in Cloud Computing Environment</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(48).pdf" style="text-decoration:none;">Feasibility of Supervised Machine Learning for Cloud Security</a></li>  
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(49).pdf" style="text-decoration:none;">Bitcoin Concepts, Threats, and Machine-Learning Security Solutions</a></li>  
+
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(50).pdf" style="text-decoration:none;">Optimal Machine Learning Algorithms for Cyber Threat Detection</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(51).pdf" style="text-decoration:none;">Securing the Internet of Things in the Age of Machine Learning and Software-defined Networking</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(52).pdf" style="text-decoration:none;">Security Gets Smart with AI</a></li>  
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(53).pdf" style="text-decoration:none;">The Future of Cybersecurity in Asia Pacific and Japan – Culture, Efficiency, Awareness</a></li>  
 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(54).pdf" style="text-decoration:none;">The Benefits of Artificial Intelligence in Cybersecurity</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(55).pdf" style="text-decoration:none;">Valuing Cybersecurity Research Datasets</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(56).pdf" style="text-decoration:none;">Deep Reinforcement Learning for Cyber Security</a></li>  
 
-
-   
-
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(57).pdf" style="text-decoration:none;">Machine learning-based adaptive intelligence: The future of cybersecurity</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(58).pdf" style="text-decoration:none;">Report on AI and IoT in
+Security Aspects</a></li>  
   </ul>
