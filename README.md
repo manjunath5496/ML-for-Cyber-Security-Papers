@@ -56,7 +56,7 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(28).pdf" style="text-decoration:none;">STN-OCR: A single Neural Network for Text Detection and Text Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(29).pdf" style="text-decoration:none;">Deep Scene Text Detection with Connected Component Proposals</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(29).pdf" style="text-decoration:none;">Dimension Reduction in Network Attacks Detection Systems</a></li>                              
 
 
    
