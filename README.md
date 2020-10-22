@@ -22,33 +22,36 @@ EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models </
 for Privacy-Preserving Machine Learning </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(11).pdf" style="text-decoration:none;">TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(12).pdf" style="text-decoration:none;">Multi-Oriented Text Detection with Fully Convolutional Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(13).pdf" style="text-decoration:none;">Scene Text Detection via Holistic, Multi-Channel Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(13).pdf" style="text-decoration:none;">Anagram: A Content Anomaly Detector Resistant to Mimicry Attack</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(14).pdf" style="text-decoration:none;">Detecting Text in Natural Image with Connectionist Text Proposal Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(14).pdf" style="text-decoration:none;">CAMP: Content-Agnostic Malware Protection</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(15).pdf" style="text-decoration:none;">TextBoxes: A Fast Text Detector with a Single Deep Neural Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(15).pdf" style="text-decoration:none;">Machine learning is a field of computer science dating back to the 1950s but its popularity increased significantly in the 1990s.</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(16).pdf" style="text-decoration:none;">End-to-End Interpretation of the French Street Name Signs Dataset</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(16).pdf" style="text-decoration:none;">Practical
+Machine Learning in Infosec</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(17).pdf" style="text-decoration:none;">Arbitrary-Oriented Scene Text Detection via Rotation Proposals</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(17).pdf" style="text-decoration:none;">EXPOSURE: Finding Malicious Domains Using Passive DNS Analysis</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(18).pdf" style="text-decoration:none;">Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(18).pdf" style="text-decoration:none;">From Throw-Away Traffic to Bots: Detecting the Rise of DGA-Based Malware</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(19).pdf" style="text-decoration:none;">Detecting Oriented Text in Natural Images by Linking Segments</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(19).pdf" style="text-decoration:none;">Detecting Malware Domains at the Upper DNS Hierarchy</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(20).pdf" style="text-decoration:none;">Deep Direct Regression for Multi-Oriented Scene Text Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(20).pdf" style="text-decoration:none;">4 Ways Machine Learning
+Is Powering Smarter Threat Intelligence</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(21).pdf" style="text-decoration:none;">Cascaded Segmentation-Detection Networks for Word-Level Text Spotting</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(22).pdf" style="text-decoration:none;">EAST: An Efficient and Accurate Scene Text Detector</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(23).pdf" style="text-decoration:none;">Attention-based Extraction of Structured Information from Street View Imagery</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(21).pdf" style="text-decoration:none;">Nazca: Detecting Malware Distribution in Large-Scale Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(22).pdf" style="text-decoration:none;">Building a Dynamic Reputation System for DNS</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(23).pdf" style="text-decoration:none;">Outside the Closed World:
+On Using Machine Learning For Network Intrusion Detection</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(24).pdf" style="text-decoration:none;">WordFence: Text Detection in Natural Images with Border Awareness</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(24).pdf" style="text-decoration:none;">DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(25).pdf" style="text-decoration:none;">Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(26).pdf" style="text-decoration:none;"> R<sup>2</sup>CNN: Rotational Region CNN for Orientation Robust Scene Text Detection</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(27).pdf" style="text-decoration:none;">Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(25).pdf" style="text-decoration:none;">Anomalous Payload-based Network Intrusion Detection</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(26).pdf" style="text-decoration:none;"> Polonium: Tera-Scale Graph Mining for Malware Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(27).pdf" style="text-decoration:none;">Polonium: Tera-Scale Graph Mining for Malware Detection</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(28).pdf" style="text-decoration:none;">STN-OCR: A single Neural Network for Text Detection and Text Recognition</a></li>
