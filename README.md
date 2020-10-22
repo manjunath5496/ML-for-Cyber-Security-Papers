@@ -2,12 +2,12 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(1).pdf" style="text-decoration:none;">Document Enhancement using Visibility Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(1).pdf" style="text-decoration:none;">Machine Learning for Cyber Defense and Attack</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(2).pdf" style="text-decoration:none;">Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(2).pdf" style="text-decoration:none;">Applications of Machine Learning in Cyber Security</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(3).pdf" style="text-decoration:none;">Reading Text in the Wild with Convolutional Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(3).pdf" style="text-decoration:none;">A Study of Cyber Security using Machine Learning Techniques</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(4).pdf" style="text-decoration:none;">Deep Structured Output Learning for Unconstrained Text Recognition</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(5).pdf" style="text-decoration:none;">Reading Scene Text in Deep Convolutional Sequences</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(6).pdf" style="text-decoration:none;">eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys</a></li>
