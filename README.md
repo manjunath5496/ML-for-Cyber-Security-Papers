@@ -62,6 +62,33 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(30).pdf" style="text-decoration:none;">Machine Learning Algorithms in Cyber Security</a></li>  
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(31).pdf" style="text-decoration:none;">DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(32).pdf" style="text-decoration:none;">Toward AI Security: Global Aspirations for a More Resilient Future</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(33).pdf" style="text-decoration:none;"> A Survey of Data Mining and Machine Learning Methods for Cyber Security Intrusion Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(34).pdf" style="text-decoration:none;">Generations of Machine Learning in Cybersecurity</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(35).pdf" style="text-decoration:none;">Automation and Analytics versus the Chaos of Cybersecurity Operations</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(36).pdf" style="text-decoration:none;">A survey of cyber security operations based on Machine learning and Deep learning</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(37).pdf" style="text-decoration:none;">The Impact of Artificial Intelligence on Security: a Dual Perspective</a></li>  
+
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(38).pdf" style="text-decoration:none;">Machine Learning in the Age of Cyber AI: A Review of Machine Learning Approaches for Cyber Security and Darktrace’s Underlying Technology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(39).pdf" style="text-decoration:none;">Artificial Intelligence</a></li>                              
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-for-Cyber-Security-Papers/blob/master/cyml(40).pdf" style="text-decoration:none;">Intelligent Security Measures for Smart Cyber-Physical Systems</a></li>  
+
+
+
+
+
+
+
+
    
 
   </ul>
